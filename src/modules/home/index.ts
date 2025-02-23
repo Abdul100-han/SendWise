@@ -1,3 +1,3 @@
 
-export * from "./home";
-export { default } from "./home";
+export * from "./Home";
+export { default } from "./Home";
