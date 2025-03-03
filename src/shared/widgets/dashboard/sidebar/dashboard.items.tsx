@@ -92,7 +92,7 @@ const DashboardItems = ({ bottomContent }: { bottomContent?: boolean }) => {
             <SidebarFotterLogo />
           </div>
           <p className="text-sm text-center pt-5 pb-10">
-            © 2024 Becodemy, Inc. All rights reserved.
+            © 2025 SendWise, Inc. All rights reserved.
           </p>
         </>
       )}

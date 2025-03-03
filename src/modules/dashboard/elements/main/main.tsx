@@ -84,8 +84,8 @@ const Main = () => {
           <div className="w-full bg-white border rounded p-5 my-3">
             <h5 className="font-medium">Tutorials</h5>
             <p className="text-sm opacity-[.7]">
-              Learn how to get started on becodemy and utilize all our features,
-              directly from the becodemy team.
+              Learn how to get started on sendwise and utilize all our features,
+              directly from the sendwise team.
             </p>
             <br />
             <Button className="bg-[#FBCFE8] text-[#831743] rounded-lg h-[35px] flex items-center">
