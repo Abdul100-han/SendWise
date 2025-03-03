@@ -11,12 +11,14 @@
   "dependencies": {
     "@clerk/nextjs": "^6.12.0",
     "jotai": "^2.12.1",
+    "mongoose": "^8.11.0",
     "next": "15.1.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-email-editor": "^1.7.11",
     "react-hot-toast": "^2.5.2",
-    "recharts": "^2.15.1"
+    "recharts": "^2.15.1",
+    "stargate-mongoose": "^0.6.10"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
